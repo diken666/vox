@@ -1,0 +1,12 @@
+{
+  "name": "vox",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "vue": "^3.2.21"
+  },
+  "npmClient": "yarn",
+  "workspaces": [
+    "packages/*"
+  ]
+}
